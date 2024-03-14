@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>
+          Bold italic underline
+     </title>
+  </head>
+  <body>
+     <a href="https://www.google.com/">Google</a> <br><br>
+     <br><a href="https://www.netflix.com/">Netflix</a><br>
+     <p>
+          <b>
+               <i>
+                    twinkle <br></i>twinkle
+  
+          </b>
+          <u>twinkle</u>
+     </p>
+
+
+    
+     </body></html>
